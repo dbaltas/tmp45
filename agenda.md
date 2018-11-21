@@ -1,12 +1,12 @@
 Please find below the agenda of the meeting:
-
+- expectations
 - history of git
 - the commit
 - staged changes
 - git log / history
 - the branch
-- backup
 - cherry-pick
+- backup
 
 bonus material:
 
