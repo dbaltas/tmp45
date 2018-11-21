@@ -6,8 +6,9 @@ terminology
 - staging
 - qape ? which branch
 
-- γιατι δεν μπορούμε να παρουμε κάποια κομμάτια του κωδικα
+git commit vs push
 
+- γιατι δεν μπορούμε να παρουμε κάποια κομμάτια του κωδικα να τα ανεβάσουμε στο release
 
 διαφορά merge me rebase
 
@@ -18,4 +19,8 @@ git commands
 
 πως φτιαχνεις ενα repo στο github?
 
+karaman story with rename branch
 
+git revert
+
+maria's story with dropbox?!

@@ -1,5 +1,5 @@
 Please find below the agenda of the meeting:
-- expectations
+[x] - expectations
 - history of git
 - the commit
 - staged changes
